@@ -18,17 +18,12 @@ This project integrates:
 
 🧠 Features
 
-💬 AI chat interface powered by LLM
-
-📄 Resume-aware responses (context injection)
-
-🛑 Hallucination prevention (strict prompt rules)
-
-🗄 Chat history logging using SQLite
-
-🌐 Fully deployed full-stack architecture
-
-📱 Responsive mobile-compatible UI
+- AI chat interface powered by LLM
+-  Resume-aware responses (context injection)
+-  Hallucination prevention (strict prompt rules)
+-  Chat history logging using SQLite
+-   Fully deployed full-stack architecture
+-   Responsive mobile-compatible UI
 
 ⚡ Production-ready CORS handling
 
