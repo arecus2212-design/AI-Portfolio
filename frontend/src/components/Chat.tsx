@@ -100,7 +100,8 @@ const styles: any = {
     alignItems: "center",
   },
   chatContainer: {
-    width: "700px",
+    width: "95%",
+    maxWidth: "700px",
     height: "85vh",
     backgroundColor: "#0f172a",
     borderRadius: "16px",
@@ -126,7 +127,7 @@ const styles: any = {
     padding: "12px",
     borderRadius: "12px",
     marginBottom: "10px",
-    maxWidth: "75%",
+    maxWidth: "90%",
   },
   botMessage: {
     alignSelf: "flex-start",
@@ -135,10 +136,11 @@ const styles: any = {
     padding: "12px",
     borderRadius: "12px",
     marginBottom: "10px",
-    maxWidth: "75%",
+    maxWidth: "90%",
   },
   inputContainer: {
     display: "flex",
+    gap: "8px",
   },
   input: {
     flex: 1,
@@ -146,6 +148,7 @@ const styles: any = {
     borderRadius: "8px",
     border: "none",
     marginRight: "10px",
+    fontSize: "16px",
   },
   button: {
     padding: "12px 20px",
