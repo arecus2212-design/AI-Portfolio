@@ -153,28 +153,3 @@ Strict rules enforce:
 
 All chat interactions are stored in SQLite using SQLAlchemy ORM.
 
-📊 Example Query
-
-User:
-
-What skills does Yash have?
-
-AI:
-
-### Technical Skills
-
-**Programming**
-- Python
-- Java
-- SQL
-...
-💡 Future Improvements
-
-- Streaming responses
-- Vector-based RAG
-- User analytics dashboard
-- Rate limiting
-- Authentication
-- Resume download button
-- Docker containerization
-- Custom domain
