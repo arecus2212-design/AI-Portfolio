@@ -1,4 +1,4 @@
-🚀 **AI-Powered Portfolio – Yash Kaushal**
+# 🚀 AI-Powered Portfolio 
 
 An interactive full-stack AI portfolio that allows users to chat with my resume in real-time.
 
@@ -12,7 +12,7 @@ This project integrates:
 
 🌍 Live Demo
 
-🔗 Frontend: https://lambent-faun-a98f83.netlify.app/
+###🔗 Frontend: https://lambent-faun-a98f83.netlify.app/
 
 🔗 Backend: https://ai-portfolio-ftto.onrender.com/docs
 
