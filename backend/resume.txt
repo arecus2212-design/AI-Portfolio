@@ -1,0 +1,102 @@
+FULL NAME:
+Yash Kaushal
+
+CONTACT:
+Email: yashkaushal.jsspfc@gmail.com
+GitHub: https://github.com/arecus2212-design
+LinkedIn: https://www.linkedin.com/in/ykaushal/
+
+CURRENT EDUCATION:
+- BTech in Computer Science Engineering (AI & ML specialization)
+- Dual Degree: BSc Physics (Hons), Kirori Mal College
+- Schooling: Cambridge School Noida (2006–2022)
+
+TECHNICAL SKILLS:
+
+Programming:
+- Python
+- Java
+- SQL
+- JavaScript
+- TypeScript
+
+Web Development:
+- React (Functional Components)
+- FastAPI
+- REST APIs
+- TailwindCSS
+
+Database:
+- MySQL
+- MongoDB
+- SQLite
+
+AI & ML:
+- Sentiment Analysis
+- NLP
+- Model Training
+- Dataset preprocessing
+- Underfitting & Overfitting analysis
+- Feature Engineering
+
+Tools:
+- Git & GitHub
+- VS Code
+- Postman
+- Cloudflare Tunnels
+- Netlify
+- Vercel
+
+EXPERIENCE:
+
+Marketing Leadership:
+- Marketing Head at Round Table, Kirori Mal College
+- Generated sponsorships worth 45,000 INR
+- Worked with brands such as Red Tape and GeeksforGeeks
+- Led marketing campaigns and outreach strategy
+
+Database & Technical Work:
+- Worked on database management systems
+- Designed structured data handling for projects
+
+PROJECTS:
+
+1. AI-powered CRM Module:
+- Built intelligent system to assist healthcare professionals
+- Implemented AI-based insights
+- Contributed to backend logic and data flow management
+
+2. Sentiment Analysis System:
+- Built model to classify news articles as positive, negative, or neutral
+- Highlighted specific words contributing to sentiment
+- Used NLP preprocessing techniques
+
+3. AI Content Writer (Hindi Personality-based Generator):
+- Created AI system that generates Hindi content
+- Trained using dataset of 500+ articles
+- Used JSONL structured dataset for training
+
+4. AI Portfolio with Resume Chat:
+- Built fullstack React + FastAPI application
+- Integrated OpenRouter LLM
+- Chatbot answers questions using resume context
+- Implemented chat logging with SQLite
+
+AREAS OF INTEREST:
+- Backend Development
+- Artificial Intelligence
+- Product Engineering
+- SaaS Platforms
+- Data Analytics
+
+ACHIEVEMENTS:
+- Successfully generated corporate sponsorships
+- Built AI-based systems from scratch
+- Experience handling live client workflows in SaaS environments
+
+PERSONAL TRAITS:
+- Analytical thinker
+- Strong leadership skills
+- Ethical and hardworking
+- Comfortable in technical interviews
+- Strong communication skills
