@@ -45,7 +45,7 @@ This project integrates:
 - Meta Llama / Mistral model
 
 
-📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 ai-portfolio/
@@ -76,27 +76,20 @@ cd ai-portfolio
 2️⃣ Backend Setup
 ```
 cd backend
-```
-```
 python -m venv venv
-```
-```
 venv\Scripts\activate  # Windows
-```
-```
 pip install -r requirements.txt
 ```
 Create .env file inside backend/:
 ```
 OPENROUTER_API_KEY=your_api_key_here
 ```
-Run backend:
+**Run backend:**
 ```
 python -m uvicorn main:app --reload
 ```
-Visit:
+Visit: http://127.0.0.1:8000/docs
 
-http://127.0.0.1:8000/docs
 3️⃣ Frontend Setup
 ```
 cd frontend
@@ -107,12 +100,10 @@ npm install
 ```
 npm start
 ```
-Visit:
+Visit: http://localhost:3000
+**Deployment**
 
-http://localhost:3000
-🚀 Deployment
 Backend → Render
-
 Root directory: backend
 
 Build command:
