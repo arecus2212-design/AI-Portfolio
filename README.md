@@ -182,23 +182,17 @@ The LLM only answers using content from resume.txt, preventing hallucination.
 
 Strict rules enforce:
 
-Resume-only answers
-
-Bullet-point formatting
-
-Professional tone
-
-Deterministic output (temperature = 0.3)
+- Resume-only answers
+- Bullet-point formatting
+- Professional tone
+- Deterministic output (temperature = 0.3)
 
 🔹 Error Handling
 
-HTTP status validation
-
-Safe "choices" extraction
-
-CORS preflight handling
-
-API key validation
+- HTTP status validation
+- Safe "choices" extraction
+- CORS preflight handling
+- API key validation
 
 🔹 Database Logging
 
@@ -221,18 +215,11 @@ AI:
 ...
 💡 Future Improvements
 
-Streaming responses
-
-Vector-based RAG
-
-User analytics dashboard
-
-Rate limiting
-
-Authentication
-
-Resume download button
-
-Docker containerization
-
-Custom domain
+- Streaming responses
+- Vector-based RAG
+- User analytics dashboard
+- Rate limiting
+- Authentication
+- Resume download button
+- Docker containerization
+- Custom domain
