@@ -6,7 +6,7 @@ interface ChatResponse {
 
 export const sendMessage = async (message: string): Promise<string> => {
   const response = await axios.post<ChatResponse>(
-    "http://127.0.0.1:8000/chat",
+    "https://ai-portfolio-ftto.onrender.com/chat",
     { message }
   );
 
