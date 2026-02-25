@@ -4,11 +4,11 @@ An interactive full-stack AI portfolio that allows users to chat with my resume 
 
 This project integrates:
 
--React + TypeScript frontend
--FastAPI backend
--OpenRouter LLM
--SQLite database
--Deployed on Netlify + Render
+- React + TypeScript frontend
+- FastAPI backend
+- OpenRouter LLM
+- SQLite database
+- Deployed on Netlify + Render
 
 🌍 Live Demo
 
