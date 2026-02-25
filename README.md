@@ -101,37 +101,25 @@ npm install
 npm start
 ```
 Visit: http://localhost:3000
-**Deployment**
+
+# **Deployment**
 
 Backend → Render
 Root directory: backend
 
-Build command:
+**Build command:**
 ```
 pip install -r requirements.txt
 ```
-Start command:
+**Start command:**
 ```
 python -m uvicorn main:app --host 0.0.0.0 --port 10000
 ```
-Add environment variable:
 
-OPENROUTER_API_KEY
-Frontend → Netlify
-
-Base directory: frontend
-
-Build command:
-
-npm run build
-
-Publish directory:
-
-build
-🧩 Key Implementation Details
+# Key Implementation Details
 🔹 Resume Context Injection
 
-The LLM only answers using content from resume.txt, preventing hallucination.
+- The LLM only answers using content from resume.txt, preventing hallucination.
 
 🔹 Structured Prompt Engineering
 
