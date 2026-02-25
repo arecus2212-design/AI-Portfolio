@@ -25,52 +25,25 @@ This project integrates:
 -   Fully deployed full-stack architecture
 -   Responsive mobile-compatible UI
 
-⚡ Production-ready CORS handling
+# Tech Stack
 
-🔐 Environment variable security for API keys
+**Frontend**
+- React
+- TypeScript
+- Axios
+- React-Markdown
 
-🏗 Architecture
-Netlify (React Frontend)
-        ↓
-Render (FastAPI Backend)
-        ↓
-OpenRouter LLM API
-        ↓
-Resume Context (resume.txt)
-        ↓
-SQLite Chat Logs
-🛠 Tech Stack
-Frontend
+**Backend**
+- FastAPI
+- Uvicorn
+- SQLAlchemy
+- SQLite
+- Python-Dotenv
 
-React
+**AI Integration**
+- OpenRouter API
+- Meta Llama / Mistral model
 
-TypeScript
-
-Axios
-
-React-Markdown
-
-Backend
-
-FastAPI
-
-Uvicorn
-
-SQLAlchemy
-
-SQLite
-
-Python-Dotenv
-
-AI Integration
-
-OpenRouter API
-
-Meta Llama / Mistral model
-
-Structured prompt engineering
-
-Temperature control for deterministic responses
 
 📂 Project Structure
 
